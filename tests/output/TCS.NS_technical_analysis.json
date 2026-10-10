@@ -1,0 +1,1044 @@
+{
+  "meta": {
+    "stock_name": "Tata Consultancy Services Limited",
+    "stock_symbol": "TCS.NS",
+    "exchange": "NSE",
+    "currency": "INR",
+    "as_of_utc": "2026-10-10T06:52:16+00:00",
+    "last_daily_bar": "2026-10-09",
+    "market_state": "CLOSED",
+    "data_source": "Yahoo Finance via yfinance",
+    "price_basis": "split-adjusted, not dividend-adjusted (matches most charting platforms)"
+  },
+  "data_quality": {
+    "status": "OK",
+    "has_usable_volume": true,
+    "daily_cleaning": {
+      "rows_raw": 2471,
+      "dropped_duplicate_dates": 0,
+      "dropped_nan_ohlc": 0,
+      "dropped_non_positive_price": 0,
+      "repaired_ohlc_inconsistency": 0,
+      "nan_volume_filled_with_zero": 0,
+      "jumps_over_40pct": [],
+      "rows_clean": 2471
+    },
+    "daily": {
+      "bars": 2471,
+      "first_bar": "2016-10-10",
+      "last_bar": "2026-10-09",
+      "last_bar_is_partial": false
+    },
+    "weekly": {
+      "bars": 522,
+      "first_bar": "2016-10-14",
+      "last_bar": "2026-10-09",
+      "last_bar_is_partial": false
+    },
+    "monthly": {
+      "bars": 121,
+      "first_bar": "2016-10-31",
+      "last_bar": "2026-10-31",
+      "last_bar_is_partial": true
+    },
+    "warnings": []
+  },
+  "price_snapshot": {
+    "date": "2026-10-09",
+    "is_partial_bar": false,
+    "open": 2086.0,
+    "high": 2204.0,
+    "low": 2086.0,
+    "close": 2156.0,
+    "volume": 11692314.0,
+    "previous_close": 2076.0,
+    "change": 80.0,
+    "change_pct": 3.85,
+    "gap_vs_prev_close_pct": 0.48,
+    "high_52w": 3350.0,
+    "low_52w": 1976.8,
+    "pct_from_52w_high": -35.64,
+    "pct_from_52w_low": 9.07,
+    "position_in_52w_range_pct": 13.05,
+    "highest_in_data_window": {
+      "value": 4592.25,
+      "date": "2024-08-30",
+      "pct_from_it": -53.05,
+      "window_years": 10.0
+    }
+  },
+  "performance": {
+    "returns_pct": {
+      "1d": 3.85,
+      "1w": 3.9,
+      "1m": -2.36,
+      "3m": 5.2,
+      "6m": -16.72,
+      "1y": -29.58,
+      "3y": -40.74,
+      "ytd": -32.76
+    }
+  },
+  "relative_strength": {
+    "benchmark": "NIFTY 50 (^NSEI)",
+    "periods": {
+      "1m": {
+        "stock_pct": -2.36,
+        "benchmark_pct": -3.89,
+        "outperformance_pp": 1.53
+      },
+      "3m": {
+        "stock_pct": 5.2,
+        "benchmark_pct": -6.02,
+        "outperformance_pp": 11.22
+      },
+      "6m": {
+        "stock_pct": -16.72,
+        "benchmark_pct": -5.28,
+        "outperformance_pp": -11.45
+      },
+      "1y": {
+        "stock_pct": -29.58,
+        "benchmark_pct": -10.57,
+        "outperformance_pp": -19.01
+      }
+    },
+    "rs_line": {
+      "trend_vs_50bar_avg": "improving (above 50-bar avg)",
+      "change_63_bars_pct": 12.01
+    }
+  },
+  "recent_daily_candles": [
+    {
+      "date": "2026-09-25",
+      "Open": 2054.0,
+      "High": 2090.2,
+      "Low": 2038.1,
+      "Close": 2082.0,
+      "Volume": 3342195.0
+    },
+    {
+      "date": "2026-09-28",
+      "Open": 2100.0,
+      "High": 2100.0,
+      "Low": 2051.0,
+      "Close": 2070.7,
+      "Volume": 2457049.0
+    },
+    {
+      "date": "2026-09-29",
+      "Open": 2065.0,
+      "High": 2085.1,
+      "Low": 2032.4,
+      "Close": 2032.4,
+      "Volume": 4437783.0
+    },
+    {
+      "date": "2026-09-30",
+      "Open": 2069.0,
+      "High": 2101.0,
+      "Low": 2050.6,
+      "Close": 2050.6,
+      "Volume": 3656425.0
+    },
+    {
+      "date": "2026-10-01",
+      "Open": 2052.6,
+      "High": 2093.9,
+      "Low": 2045.1,
+      "Close": 2075.0,
+      "Volume": 3428501.0
+    },
+    {
+      "date": "2026-10-05",
+      "Open": 2114.0,
+      "High": 2140.9,
+      "Low": 2063.6,
+      "Close": 2114.4,
+      "Volume": 5270768.0
+    },
+    {
+      "date": "2026-10-06",
+      "Open": 2097.0,
+      "High": 2115.0,
+      "Low": 2082.7,
+      "Close": 2100.0,
+      "Volume": 2382510.0
+    },
+    {
+      "date": "2026-10-07",
+      "Open": 2085.2,
+      "High": 2105.0,
+      "Low": 2076.0,
+      "Close": 2080.3,
+      "Volume": 1349758.0
+    },
+    {
+      "date": "2026-10-08",
+      "Open": 2104.0,
+      "High": 2141.5,
+      "Low": 2060.0,
+      "Close": 2076.0,
+      "Volume": 4288031.0
+    },
+    {
+      "date": "2026-10-09",
+      "Open": 2086.0,
+      "High": 2204.0,
+      "Low": 2086.0,
+      "Close": 2156.0,
+      "Volume": 11692314.0
+    }
+  ],
+  "timeframes": {
+    "daily": {
+      "bars": 2471,
+      "last_bar_date": "2026-10-09",
+      "last_bar_is_partial": false,
+      "last_bar": {
+        "Open": 2086.0,
+        "High": 2204.0,
+        "Low": 2086.0,
+        "Close": 2156.0,
+        "Volume": 11692314.0
+      },
+      "trend": {
+        "moving_averages": {
+          "sma_20": {
+            "value": 2119.37,
+            "price_vs": "above",
+            "distance_pct": 1.73,
+            "slope_5bar_pct": -1.92
+          },
+          "ema_20": {
+            "value": 2130.6,
+            "price_vs": "above",
+            "distance_pct": 1.19
+          },
+          "sma_50": {
+            "value": 2254.22,
+            "price_vs": "below",
+            "distance_pct": -4.36,
+            "slope_5bar_pct": -0.98
+          },
+          "ema_50": {
+            "value": 2196.63,
+            "price_vs": "below",
+            "distance_pct": -1.85
+          },
+          "sma_100": {
+            "value": 2225.83,
+            "price_vs": "below",
+            "distance_pct": -3.14,
+            "slope_5bar_pct": -0.38
+          },
+          "ema_100": {
+            "value": 2274.92,
+            "price_vs": "below",
+            "distance_pct": -5.23
+          },
+          "sma_200": {
+            "value": 2490.44,
+            "price_vs": "below",
+            "distance_pct": -13.43,
+            "slope_5bar_pct": -1.1
+          },
+          "ema_200": {
+            "value": 2470.87,
+            "price_vs": "below",
+            "distance_pct": -12.74
+          }
+        },
+        "ma_alignment": "mixed",
+        "ma_cross": {
+          "pair": "SMA50/SMA200",
+          "state": "bearish (short below long)",
+          "last_cross": {
+            "type": "death",
+            "date": "2025-02-17",
+            "bars_ago": 405
+          }
+        },
+        "adx_14": {
+          "adx": 22.83,
+          "plus_di": 23.39,
+          "minus_di": 18.94,
+          "strength": "emerging (20-25)",
+          "direction": "up"
+        },
+        "supertrend_10_3": {
+          "value": 2231.53,
+          "direction": "bearish",
+          "bars_since_flip": 29
+        }
+      },
+      "momentum": {
+        "rsi_14": {
+          "value": 50.6,
+          "zone": "bullish bias (50-70)"
+        },
+        "macd_12_26_9": {
+          "macd": -42.038,
+          "signal": -51.586,
+          "histogram": 9.547,
+          "state": "bullish (MACD above signal)",
+          "last_cross": {
+            "type": "bullish",
+            "date": "2026-10-06",
+            "bars_ago": 3
+          }
+        },
+        "stochastic_14_3_3": {
+          "percent_k": 40.95,
+          "percent_d": 30.95,
+          "zone": "neutral zone"
+        },
+        "williams_r_14": {
+          "value": -27.97,
+          "zone": "neutral zone"
+        },
+        "cci_20": {
+          "value": 30.81,
+          "zone": "neutral zone"
+        },
+        "roc_12_pct": 2.42
+      },
+      "volatility": {
+        "atr_14": 62.87,
+        "atr_pct_of_price": 2.92,
+        "bollinger_20_2": {
+          "upper": 2234.74,
+          "middle": 2119.37,
+          "lower": 2004.0,
+          "percent_b": 0.659,
+          "bandwidth_pct": 10.89,
+          "position": "upper half",
+          "bandwidth_percentile": 21.7,
+          "squeeze": false
+        },
+        "historical_volatility_20_annualised_pct": 27.43
+      },
+      "volume": {
+        "last_volume": 11692314.0,
+        "avg_volume_20": 3786657.0,
+        "volume_ratio_vs_avg20": 3.09,
+        "obv": 13540820.0,
+        "obv_20bar_change": -5571240.0,
+        "obv_trend": "falling",
+        "obv_vs_price_20bar": "confirming",
+        "mfi_14": {
+          "value": 59.19,
+          "zone": "neutral zone"
+        },
+        "cmf_20": -0.297,
+        "rolling_vwap_20": {
+          "value": 2130.72,
+          "price_vs": "above"
+        }
+      },
+      "support_resistance": {
+        "classic_pivots": {
+          "based_on_bar": "2026-10-09",
+          "S3": 1975.33,
+          "S2": 2030.67,
+          "S1": 2093.33,
+          "P": 2148.67,
+          "R1": 2211.33,
+          "R2": 2266.67,
+          "R3": 2329.33
+        },
+        "swing_resistance_above": [
+          2231.0,
+          2323.0,
+          2377.6
+        ],
+        "swing_support_below": [
+          2110.0,
+          2032.4,
+          1976.8
+        ],
+        "swing_note": "Fractal swings (5 bars each side) within last 120 bars; the latest 5 bars can't be confirmed yet.",
+        "fibonacci": {
+          "lookback_bars": 120,
+          "swing_high": 2614.0,
+          "swing_low": 1976.8,
+          "leg": "down-move (retracement from low)",
+          "levels": {
+            "23.6%": 2127.18,
+            "38.2%": 2220.21,
+            "50%": 2295.4,
+            "61.8%": 2370.59,
+            "78.6%": 2477.64
+          }
+        }
+      },
+      "candlestick": {
+        "last_bar_patterns": [
+          "none"
+        ],
+        "note": "Single/two-bar shapes only; interpret with trend context."
+      },
+      "signals": {
+        "details": [
+          {
+            "indicator": "Price vs SMA20",
+            "reading": "2156.00 vs 2119.37",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "Price vs SMA50",
+            "reading": "2156.00 vs 2254.22",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Price vs SMA100",
+            "reading": "2156.00 vs 2225.83",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Price vs SMA200",
+            "reading": "2156.00 vs 2490.44",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "SMA alignment",
+            "reading": "mixed",
+            "signal": "neutral",
+            "score": 0
+          },
+          {
+            "indicator": "SMA50/SMA200 cross state",
+            "reading": "bearish (short below long)",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "ADX/DI",
+            "reading": "ADX 22.8, +DI 23.4, -DI 18.9",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "Supertrend(10,3)",
+            "reading": "bearish",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "RSI(14)",
+            "reading": "50.6",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "MACD(12,26,9)",
+            "reading": "MACD -42.04, signal -51.59",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "Stochastic(14,3,3)",
+            "reading": "%K 40.9, %D 31.0",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "CCI(20)",
+            "reading": "30.8",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "ROC(12)",
+            "reading": "2.42%",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "OBV (20-bar trend)",
+            "reading": "falling",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "CMF(20)",
+            "reading": "-0.297",
+            "signal": "bearish",
+            "score": -1
+          }
+        ],
+        "summary": {
+          "bullish": 7,
+          "bearish": 7,
+          "neutral": 1,
+          "net_score": 0,
+          "indicators_scored": 15,
+          "score_ratio": 0.0,
+          "bias": "neutral/mixed"
+        }
+      }
+    },
+    "weekly": {
+      "bars": 522,
+      "last_bar_date": "2026-10-09",
+      "last_bar_is_partial": false,
+      "last_bar": {
+        "Open": 2114.0,
+        "High": 2204.0,
+        "Low": 2060.0,
+        "Close": 2156.0,
+        "Volume": 24983381.0
+      },
+      "trend": {
+        "moving_averages": {
+          "sma_10": {
+            "value": 2238.05,
+            "price_vs": "below",
+            "distance_pct": -3.67,
+            "slope_5bar_pct": -1.9
+          },
+          "ema_10": {
+            "value": 2188.53,
+            "price_vs": "below",
+            "distance_pct": -1.49
+          },
+          "sma_20": {
+            "value": 2213.54,
+            "price_vs": "below",
+            "distance_pct": -2.6,
+            "slope_5bar_pct": -2.7
+          },
+          "ema_20": {
+            "value": 2257.89,
+            "price_vs": "below",
+            "distance_pct": -4.51
+          },
+          "sma_40": {
+            "value": 2427.01,
+            "price_vs": "below",
+            "distance_pct": -11.17,
+            "slope_5bar_pct": -5.5
+          },
+          "ema_40": {
+            "value": 2438.74,
+            "price_vs": "below",
+            "distance_pct": -11.59
+          }
+        },
+        "ma_alignment": "mixed",
+        "ma_cross": {
+          "pair": "SMA20/SMA40",
+          "state": "bearish (short below long)",
+          "last_cross": {
+            "type": "death",
+            "date": "2025-02-21",
+            "bars_ago": 85
+          }
+        },
+        "adx_14": {
+          "adx": 22.91,
+          "plus_di": 20.79,
+          "minus_di": 25.73,
+          "strength": "emerging (20-25)",
+          "direction": "down"
+        },
+        "supertrend_10_3": {
+          "value": 2466.92,
+          "direction": "bearish",
+          "bars_since_flip": 101
+        }
+      },
+      "momentum": {
+        "rsi_14": {
+          "value": 40.35,
+          "zone": "bearish bias (30-50)"
+        },
+        "macd_12_26_9": {
+          "macd": -107.167,
+          "signal": -114.062,
+          "histogram": 6.895,
+          "state": "bullish (MACD above signal)",
+          "last_cross": {
+            "type": "bullish",
+            "date": "2026-07-17",
+            "bars_ago": 12
+          }
+        },
+        "stochastic_14_3_3": {
+          "percent_k": 22.83,
+          "percent_d": 24.53,
+          "zone": "neutral zone"
+        },
+        "williams_r_14": {
+          "value": -70.77,
+          "zone": "neutral zone"
+        },
+        "cci_20": {
+          "value": -53.39,
+          "zone": "neutral zone"
+        },
+        "roc_12_pct": -4.98
+      },
+      "volatility": {
+        "atr_14": 137.12,
+        "atr_pct_of_price": 6.36,
+        "bollinger_20_2": {
+          "upper": 2438.62,
+          "middle": 2213.54,
+          "lower": 1988.46,
+          "percent_b": 0.372,
+          "bandwidth_pct": 20.34,
+          "position": "lower half",
+          "bandwidth_percentile": 38.5,
+          "squeeze": false
+        },
+        "historical_volatility_20_annualised_pct": 24.85
+      },
+      "volume": {
+        "last_volume": 24983381.0,
+        "avg_volume_20": 20596955.0,
+        "volume_ratio_vs_avg20": 1.21,
+        "obv": 185545961.0,
+        "obv_20bar_change": -172036276.0,
+        "obv_trend": "falling",
+        "obv_vs_price_20bar": "confirming",
+        "mfi_14": {
+          "value": 66.48,
+          "zone": "neutral zone"
+        },
+        "cmf_20": -0.057,
+        "rolling_vwap_20": {
+          "value": 2215.78,
+          "price_vs": "below"
+        }
+      },
+      "support_resistance": {
+        "classic_pivots": {
+          "based_on_bar": "2026-10-09",
+          "S3": 1932.0,
+          "S2": 1996.0,
+          "S1": 2076.0,
+          "P": 2140.0,
+          "R1": 2220.0,
+          "R2": 2284.0,
+          "R3": 2364.0
+        },
+        "swing_resistance_above": [
+          2495.0,
+          2614.0,
+          3328.6
+        ],
+        "swing_support_below": [
+          1976.8
+        ],
+        "swing_note": "Fractal swings (5 bars each side) within last 52 bars; the latest 5 bars can't be confirmed yet.",
+        "fibonacci": {
+          "lookback_bars": 52,
+          "swing_high": 3350.0,
+          "swing_low": 1976.8,
+          "leg": "down-move (retracement from low)",
+          "levels": {
+            "23.6%": 2300.88,
+            "38.2%": 2501.36,
+            "50%": 2663.4,
+            "61.8%": 2825.44,
+            "78.6%": 3056.14
+          }
+        }
+      },
+      "candlestick": {
+        "last_bar_patterns": [
+          "none"
+        ],
+        "note": "Single/two-bar shapes only; interpret with trend context."
+      },
+      "signals": {
+        "details": [
+          {
+            "indicator": "Price vs SMA10",
+            "reading": "2156.00 vs 2238.05",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Price vs SMA20",
+            "reading": "2156.00 vs 2213.54",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Price vs SMA40",
+            "reading": "2156.00 vs 2427.01",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "SMA alignment",
+            "reading": "mixed",
+            "signal": "neutral",
+            "score": 0
+          },
+          {
+            "indicator": "SMA20/SMA40 cross state",
+            "reading": "bearish (short below long)",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "ADX/DI",
+            "reading": "ADX 22.9, +DI 20.8, -DI 25.7",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Supertrend(10,3)",
+            "reading": "bearish",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "RSI(14)",
+            "reading": "40.3",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "MACD(12,26,9)",
+            "reading": "MACD -107.17, signal -114.06",
+            "signal": "bullish",
+            "score": 1
+          },
+          {
+            "indicator": "Stochastic(14,3,3)",
+            "reading": "%K 22.8, %D 24.5",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "CCI(20)",
+            "reading": "-53.4",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "ROC(12)",
+            "reading": "-4.98%",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "OBV (20-bar trend)",
+            "reading": "falling",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "CMF(20)",
+            "reading": "-0.057",
+            "signal": "bearish",
+            "score": -1
+          }
+        ],
+        "summary": {
+          "bullish": 1,
+          "bearish": 12,
+          "neutral": 1,
+          "net_score": -11,
+          "indicators_scored": 14,
+          "score_ratio": -0.79,
+          "bias": "bearish"
+        }
+      }
+    },
+    "monthly": {
+      "bars": 121,
+      "last_bar_date": "2026-10-31",
+      "last_bar_is_partial": true,
+      "last_bar": {
+        "Open": 2052.6,
+        "High": 2204.0,
+        "Low": 2045.1,
+        "Close": 2156.0,
+        "Volume": 28411882.0
+      },
+      "trend": {
+        "moving_averages": {
+          "sma_6": {
+            "value": 2210.32,
+            "price_vs": "below",
+            "distance_pct": -2.46,
+            "slope_5bar_pct": -17.42
+          },
+          "ema_6": {
+            "value": 2263.38,
+            "price_vs": "below",
+            "distance_pct": -4.74
+          },
+          "sma_12": {
+            "value": 2516.64,
+            "price_vs": "below",
+            "distance_pct": -14.33,
+            "slope_5bar_pct": -13.04
+          },
+          "ema_12": {
+            "value": 2485.28,
+            "price_vs": "below",
+            "distance_pct": -13.25
+          },
+          "sma_24": {
+            "value": 3008.92,
+            "price_vs": "below",
+            "distance_pct": -28.35,
+            "slope_5bar_pct": -12.25
+          },
+          "ema_24": {
+            "value": 2826.77,
+            "price_vs": "below",
+            "distance_pct": -23.73
+          }
+        },
+        "ma_alignment": "bearish_stack (short below long)",
+        "ma_cross": {
+          "pair": "SMA12/SMA24",
+          "state": "bearish (short below long)",
+          "last_cross": {
+            "type": "death",
+            "date": "2025-08-31",
+            "bars_ago": 14
+          }
+        },
+        "adx_14": {
+          "adx": 39.37,
+          "plus_di": 8.02,
+          "minus_di": 30.92,
+          "strength": "strong (25-50)",
+          "direction": "down"
+        },
+        "supertrend_10_3": {
+          "value": 3118.23,
+          "direction": "bearish",
+          "bars_since_flip": 15
+        }
+      },
+      "momentum": {
+        "rsi_14": {
+          "value": 35.61,
+          "zone": "bearish bias (30-50)"
+        },
+        "macd_12_26_9": {
+          "macd": -379.166,
+          "signal": -310.738,
+          "histogram": -68.429,
+          "state": "bearish (MACD below signal)",
+          "last_cross": {
+            "type": "bearish",
+            "date": "2025-02-28",
+            "bars_ago": 20
+          }
+        },
+        "stochastic_14_3_3": {
+          "percent_k": 15.45,
+          "percent_d": 17.57,
+          "zone": "oversold (<20)"
+        },
+        "williams_r_14": {
+          "value": -86.95,
+          "zone": "oversold (<-80)"
+        },
+        "cci_20": {
+          "value": -107.74,
+          "zone": "oversold (<-100)"
+        },
+        "roc_12_pct": -29.5
+      },
+      "volatility": {
+        "atr_14": 335.04,
+        "atr_pct_of_price": 15.54,
+        "bollinger_20_2": {
+          "upper": 3821.01,
+          "middle": 2812.64,
+          "lower": 1804.28,
+          "percent_b": 0.174,
+          "bandwidth_pct": 71.7,
+          "position": "lower half",
+          "bandwidth_percentile": 94.4,
+          "squeeze": false
+        },
+        "historical_volatility_20_annualised_pct": 28.86
+      },
+      "volume": {
+        "last_volume": 28411882.0,
+        "avg_volume_20": 67760195.0,
+        "volume_ratio_vs_avg20": 0.42,
+        "obv": 518749553.0,
+        "obv_20bar_change": -133308388.0,
+        "obv_trend": "falling",
+        "obv_vs_price_20bar": "confirming",
+        "mfi_14": {
+          "value": 44.18,
+          "zone": "neutral zone"
+        },
+        "cmf_20": -0.259,
+        "rolling_vwap_20": {
+          "value": 2766.44,
+          "price_vs": "below"
+        },
+        "note": "Last bar is still forming; its volume is incomplete, so volume_ratio is understated."
+      },
+      "support_resistance": {
+        "classic_pivots": {
+          "based_on_bar": "2026-09-30",
+          "S3": 1591.73,
+          "S2": 1812.07,
+          "S1": 1931.33,
+          "P": 2151.67,
+          "R1": 2270.93,
+          "R2": 2491.27,
+          "R3": 2610.53
+        },
+        "swing_resistance_above": [
+          3350.0,
+          4592.25
+        ],
+        "swing_support_below": "NA",
+        "swing_note": "Fractal swings (5 bars each side) within last 36 bars; the latest 5 bars can't be confirmed yet.",
+        "fibonacci": {
+          "lookback_bars": 36,
+          "swing_high": 4592.25,
+          "swing_low": 1976.8,
+          "leg": "down-move (retracement from low)",
+          "levels": {
+            "23.6%": 2594.05,
+            "38.2%": 2975.9,
+            "50%": 3284.53,
+            "61.8%": 3593.15,
+            "78.6%": 4032.54
+          }
+        }
+      },
+      "candlestick": {
+        "last_bar_patterns": [
+          "none"
+        ],
+        "note": "Single/two-bar shapes only; interpret with trend context."
+      },
+      "signals": {
+        "details": [
+          {
+            "indicator": "Price vs SMA6",
+            "reading": "2156.00 vs 2210.32",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Price vs SMA12",
+            "reading": "2156.00 vs 2516.64",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Price vs SMA24",
+            "reading": "2156.00 vs 3008.92",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "SMA alignment",
+            "reading": "bearish_stack (short below long)",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "SMA12/SMA24 cross state",
+            "reading": "bearish (short below long)",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "ADX/DI",
+            "reading": "ADX 39.4, +DI 8.0, -DI 30.9",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Supertrend(10,3)",
+            "reading": "bearish",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "RSI(14)",
+            "reading": "35.6",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "MACD(12,26,9)",
+            "reading": "MACD -379.17, signal -310.74",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "Stochastic(14,3,3)",
+            "reading": "%K 15.4, %D 17.6",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "CCI(20)",
+            "reading": "-107.7",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "ROC(12)",
+            "reading": "-29.50%",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "OBV (20-bar trend)",
+            "reading": "falling",
+            "signal": "bearish",
+            "score": -1
+          },
+          {
+            "indicator": "CMF(20)",
+            "reading": "-0.259",
+            "signal": "bearish",
+            "score": -1
+          }
+        ],
+        "summary": {
+          "bullish": 0,
+          "bearish": 14,
+          "neutral": 0,
+          "net_score": -14,
+          "indicators_scored": 14,
+          "score_ratio": -1.0,
+          "bias": "bearish"
+        }
+      }
+    }
+  },
+  "multi_timeframe_summary": {
+    "bias_by_timeframe": {
+      "daily": "neutral/mixed",
+      "weekly": "bearish",
+      "monthly": "bearish"
+    },
+    "alignment": "mixed",
+    "note": "Rule-based tally of indicator readings; not a prediction or investment advice."
+  },
+  "errors": {},
+  "notes": [
+    "Weekly bars end Friday; monthly bars end on the calendar month-end. Both are built from the same validated daily bars.",
+    "If last_bar_is_partial is true, that bar's indicators are provisional; pivots then use the previous completed bar.",
+    "RSI/ATR/ADX use Wilder smoothing; EMAs/MACD are SMA-seeded.",
+    "Indicators needing more history than available (e.g. monthly SMA24 on a young stock) are reported as NA."
+  ]
+}
